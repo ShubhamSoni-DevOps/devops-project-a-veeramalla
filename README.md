@@ -4,3 +4,5 @@
 
 # Docker compose examples repo
 https://github.com/docker/awesome-compose
+
+### the above contains the docker and docker-compose projects.
